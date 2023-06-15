@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gestor de Tareas</string>
+    <string name="reg_strate">Regístrate</string>
+    <string name="todo">TODO</string>
+    <string name="todoa">TODO</string>
+    <string name="recu_rdame">Recuérdame</string>
+    <string name="continuar">Continuar</string>
+    <string name="ya_tienes_una_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="log_in">Log In</string>
+</resources>
